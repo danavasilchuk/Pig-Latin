@@ -7,10 +7,9 @@ The Pig Latin Translator is a simple program that converts words or sentences in
 - Translates words into Pig Latin
 - Handles single words and multiple-word phrases
 - Supports words starting with vowels and consonants
-- Displays translated output
 
 ## Usage
-1. Open the program in your preferred JavaScript environment (e.g., browser console, online code editor).
+1. Open the program in VSCODE or your chosen preference
 2. Enter a sentence or a word when prompted.
 3. The program will apply the Pig Latin rules to each word and display the translated output.
 
@@ -24,14 +23,8 @@ The Pig Latin Translator is a simple program that converts words or sentences in
 - Input: "grade"
   Output: "adegray"
 
-## Contributing
-Contributions are welcome! If you want to contribute to this project, please fork the repository and create a pull request.
-
-## License
-This project is currently not licensed.
-
 ## Acknowledgements
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - The programming language used
 
 ## Contact
-For any questions or feedback, feel free to reach out to [Your Name](mailto:your.email@example.com).
+For any questions or feedback, feel free to reach out to [Dana Vasilcuk]
