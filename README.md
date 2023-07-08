@@ -33,4 +33,4 @@ This project is currently not licensed.
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - The programming language used
 
 ## Contact
-For any questions or feedback, feel free to reach out to [Your Name](mailto:your.email@example.com).
+For any questions or feedback, feel free to reach out to [Dana Vasilchuk].
