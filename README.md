@@ -23,8 +23,14 @@ The Pig Latin Translator is a simple program that converts words or sentences in
 - Input: "grade"
   Output: "adegray"
 
+## Contributing
+Contributions are welcome! If you want to contribute to this project, please fork the repository and create a pull request.
+
+## License
+This project is currently not licensed.
+
 ## Acknowledgements
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - The programming language used
 
 ## Contact
-For any questions or feedback, feel free to reach out to [Dana Vasilcuk]
+For any questions or feedback, feel free to reach out to [Your Name](mailto:your.email@example.com).
